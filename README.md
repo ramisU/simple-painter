@@ -34,8 +34,10 @@ http://stackoverflow.com/questions/12339671/how-to-compile-python-script-to-bina
 **HOW TO RUN?**
 
 Make sure you have Python 3.4, or, if possible, later versions.
--
 
+
+
+-
 
 
 
