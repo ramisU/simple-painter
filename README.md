@@ -6,6 +6,9 @@
 This program allows you to write with a stupid pencil and also to delete your drawings.
 
 This is just the first version, future versions will probably include new features, new tools.
+
+
+
 -
 
 
@@ -34,8 +37,11 @@ Make sure you have Python 3.4, or, if possible, later versions.
 -
 
 
+
+
 **MORE INFO**
 
 For more info, contact me to my email address.
+
 
 -
