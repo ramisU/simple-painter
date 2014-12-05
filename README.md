@@ -1,6 +1,5 @@
 ===
-
-Welcome to Simple Painter!
+**Welcome to Simple Painter!**
 ===
 
 
@@ -10,7 +9,7 @@ This is just the first version, future versions will probably include new featur
 -
 
 
-INFO
+**INFO**
 
 This application was created using PyGame library for Python 3.4 on a Mac machine. 
 The app was built using the py2app library for building for Mac machines:
@@ -29,13 +28,14 @@ http://stackoverflow.com/questions/12339671/how-to-compile-python-script-to-bina
 -
 
 
-HOW TO RUN?
+**HOW TO RUN?**
 
 Make sure you have Python 3.4, or, if possible, later versions.
 -
 
 
-MORE INFO
+**MORE INFO**
 
-For more info, contact me to: dossan@usi.ch
+For more info, contact me to my email address.
+
 -
